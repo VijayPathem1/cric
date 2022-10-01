@@ -1,0 +1,59 @@
+
+   .footer{
+    display:flex;
+    flex-direction: row;
+    align-content: flex-end;
+	position: relative;
+	top: 0px;
+	margin-left: 80px;
+	font-size: 18px;
+	font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: normal;
+    
+}
+body{
+	font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+	background-image: url("/images/background-image1.png");
+    background-repeat: no-repeat;
+	background-size: 95% ;
+	font: weight 1px;
+ }
+ #i1{
+	margin-left: 80%;
+ }
+ #idc{
+	font-size: 40px;
+	text-shadow: 2px 2px grey;
+ }
+ #id2{
+	font-size: 20px;
+ }
+ .blue{
+	width:150px;
+ }
+ .blue1{
+	width:250px;
+ }
+ #name{
+	background-color: orangered;
+	color: white;
+	margin-left: 60px;
+	
+ }
+ #lot{
+	border-collapse: collapse;
+	background-color: white;
+	margin-left: 60px;
+	
+ }
+ td{
+	width: 70px;
+ }
+ tr{
+	height: 40px;
+	border: 0px;
+ }
+ #d{
+	margin-left: 80px;
+ }
+
