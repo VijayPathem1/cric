@@ -13,7 +13,7 @@
 }
 body{
 	font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-	background-image: url("/images/background-image1.png");
+	background-image: url("background-image1.png");
     background-repeat: no-repeat;
 	background-size: 95% ;
 	font: weight 1px;
